@@ -25,3 +25,4 @@ End Sub
 #### 4. In the popping up dialog box, select the range with letters you want to capitalize, and then click the OK button. See screenshot:
 
 Then all letters in selected range are all capitalized immediately.
+![image](https://user-images.githubusercontent.com/43920196/142004839-4fcfb94d-29d2-4a5b-b3ef-64f9326e0668.png)
